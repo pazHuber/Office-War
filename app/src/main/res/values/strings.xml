@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Office War</string>
+    <string name="act_splash_progress_bar_txt">%</string>
+    <string name="act_splash_msg_to_user_txt">here we go...</string>
+    <string name="fb_login_protocol_scheme">1705193459718712</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+
+    <string name="login_with_facebook">Login with Facebook</string>
+    <string name="login_with_google">Login with Google+</string>
+    <string name="login_with_twitter">Login with Twitter</string>
+    <string name="login_with_password">Login with Password</string>
+    <string name="login_anonymously">Login Anonymously</string>
+</resources>
